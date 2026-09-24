@@ -16,9 +16,9 @@ The idea is pretty simple: Downward-facing machined pin headers and
 upward-facing machined SIP sockets come together to form an interposer
 board that bring the signals out pin headers for the probe leads.  A
 Dupont wire is used to jumper the chip's GND pin to any one of the
-Common pins, which can then provide grounding sources for the probes.
+Common pins, which can then act as ground connections for the probes.
 Pointers to GND pins for MC68000 / MC68440 / MC68450 and TMS9900 are
-provided for conveniences.  Footprints for 0805 SMT decoupling capacitors
+provided for convenience.  Footprints for 0805 SMT decoupling capacitors
 are also provided should you find them necessary to counteract the
 additional inductance added by the interposer.
 
