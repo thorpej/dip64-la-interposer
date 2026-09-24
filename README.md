@@ -1,4 +1,4 @@
-# A Universal DIP64 Logic Analyzer Interposer Board For Lazy People
+# A Universal DIP64 Logic Analyzer Interposer Board For Lazy People (like me)
 I'm a silly person who likes to hack on old computers, so sometimes I
 find myself in need of connecting a large number of logic analyzer
 probe leads to a chip in a DIP64 package.  I find this a bit tedious
