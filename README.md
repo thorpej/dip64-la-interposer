@@ -23,5 +23,6 @@ are also provided should you find them necessary to counteract the
 additional inductance added by the interposer.
 
 If you have any questions about the board, you can reach out to me on
-Twitter (*[@thorpej](https://twitter.com/thorpej)*) or Mastodon
-(*[@thorpej@mastodon.sdf.org](https://mastodon.sdf.org/@thorpej)*).
+Twitter (*[@thorpej](https://twitter.com/thorpej)*),
+BlueSky (*[@thorpej.bsky.social](https://bsky.app/profile/thorpej.bsky.social),
+or Mastodon (*[@thorpej@mastodon.sdf.org](https://mastodon.sdf.org/@thorpej)*).
